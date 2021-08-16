@@ -1,0 +1,2 @@
+For this competition, you will be predicting a target loss based on a number of feature columns given in the data. 
+The ground truth loss is integer valued, although predictions can be continuous.
